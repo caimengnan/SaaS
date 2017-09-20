@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.3.0)
+  - Bugly (2.4.6)
+  - Kingfisher (3.4.0)
+  - Masonry (1.0.2)
+  - SnapKit (3.1.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - Bugly
+  - Kingfisher
+  - Masonry
+  - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 856a113053a7bc9cbe5d6367a555d773fc5cfef7
+  Bugly: 7756e72c59387b0d490f46e83ab458ae94ee7fba
+  Kingfisher: 5690cfb3d1bddf3a98d679a3a34d0b7294974ed2
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SnapKit: 12b24f569cb7c143acc9c22b9d91b23e7b1c84a2
+
+PODFILE CHECKSUM: 5d1aae49711eafca9e5bac67e5f58f98d4b97e6d
+
+COCOAPODS: 1.2.0
